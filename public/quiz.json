@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What is the difference between a stack and a queue?",
+    "options": ["Stack follows LIFO, Queue follows FIFO", "Stack follows FIFO, Queue follows LIFO", "Stack and Queue both follow FIFO", "Stack and Queue both follow LIFO"],
+    "answer": "Stack follows LIFO, Queue follows FIFO"
+  },
+  {
+    "id": 2,
+    "question": "What is the purpose of the 'this' keyword in JavaScript?",
+    "options": ["To refer to the current function", "To refer to the current object", "To refer to the previous function", "To refer to the global object"],
+    "answer": "To refer to the current object"
+  },
+  {
+    "id": 3,
+    "question": "What is the time complexity of inserting an element into a hash table?",
+    "options": ["O(1)", "O(log n)", "O(n)", "O(n log n)"],
+    "answer": "O(1)"
+  },
+  {
+    "id": 4,
+    "question": "What is the purpose of the 'git clone' command?",
+    "options": ["To create a new branch", "To merge branches", "To download a repository from a remote server", "To upload changes to a remote server"],
+    "answer": "To download a repository from a remote server"
+  },
+  {
+    "id": 5,
+    "question": "What is the difference between HTTP and HTTPS?",
+    "options": ["HTTP is encrypted, HTTPS is not", "HTTPS is encrypted, HTTP is not", "Both HTTP and HTTPS are encrypted", "Neither HTTP nor HTTPS are encrypted"],
+    "answer": "HTTPS is encrypted, HTTP is not"
+  },
+  {
+    "id": 6,
+    "question": "What is the purpose of the 'border-box' value in CSS box-sizing property?",
+    "options": ["To include the padding and border in the element's total width and height", "To exclude the padding and border from the element's total width and height", "To include only the padding in the element's total width and height", "To exclude only the padding from the element's total width and height"],
+    "answer": "To include the padding and border in the element's total width and height"
+  },
+  {
+    "id": 7,
+    "question": "Which sorting algorithm has the worst-case time complexity of O(n^2)?",
+    "options": ["Quick Sort", "Merge Sort", "Bubble Sort", "Insertion Sort"],
+    "answer": "Bubble Sort"
+  },
+  {
+    "id": 8,
+    "question": "What is the purpose of the 'super' keyword in Java?",
+    "options": ["To call the superclass constructor", "To call a static method of the superclass", "To refer to the superclass object", "To call a method of the superclass"],
+    "answer": "To call the superclass constructor"
+  },
+  {
+    "id": 9,
+    "question": "What is the main advantage of using a relational database?",
+    "options": ["Flexibility", "Scalability", "Performance", "Data Integrity"],
+    "answer": "Data Integrity"
+  },
+  {
+    "id": 10,
+    "question": "What is the purpose of the 'finally' block in a try-catch-finally statement?",
+    "options": ["To handle exceptions", "To execute code whether or not an exception is thrown", "To specify the type of exception", "To rethrow an exception"],
+    "answer": "To execute code whether or not an exception is thrown"
+  },
+  {
+    "id": 11,
+    "question": "What does MVC stand for in software architecture?",
+    "options": ["Model View Control", "Model View Component", "Model View Container", "Model View Controller"],
+    "answer": "Model View Controller"
+  },
+  {
+    "id": 12,
+    "question": "What is the purpose of a foreign key in a relational database?",
+    "options": ["To enforce data integrity", "To optimize query performance", "To define relationships between tables", "To create primary keys"],
+    "answer": "To define relationships between tables"
+  },
+  {
+    "id": 13,
+    "question": "What is the primary use of recursion in programming?",
+    "options": ["To optimize memory usage", "To improve code readability", "To solve complex problems by breaking them down into smaller subproblems", "To execute loops"],
+    "answer": "To solve complex problems by breaking them down into smaller subproblems"
+  },
+  {
+    "id": 14,
+    "question": "What is the purpose of the 'SELECT' statement in SQL?",
+    "options": ["To update data in a table", "To delete data from a table", "To retrieve data from a table", "To insert data into a table"],
+    "answer": "To retrieve data from a table"
+  },
+  {
+    "id": 15,
+    "question": "What is the difference between synchronous and asynchronous programming?",
+    "options": ["Synchronous programming executes tasks sequentially, while asynchronous programming allows tasks to run concurrently", "Asynchronous programming executes tasks sequentially, while synchronous programming allows tasks to run concurrently", "Synchronous programming waits for user input, while asynchronous programming does not", "Asynchronous programming waits for user input, while synchronous programming does not"],
+    "answer": "Synchronous programming executes tasks sequentially, while asynchronous programming allows tasks to run concurrently"
+  },
+  {
+    "id": 16,
+    "question": "What is the purpose of the 'new' keyword in JavaScript?",
+    "options": ["To declare a new variable", "To create a new object instance", "To call a function", "To define a new class"],
+    "answer": "To create a new object instance"
+  },
+  {
+    "id": 17,
+    "question": "Which data structure is used for implementing recursion?",
+    "options": ["Queue", "Stack", "Array", "Linked List"],
+    "answer": "Stack"
+  },
+  {
+    "id": 18,
+    "question": "What is the difference between TCP and UDP?",
+    "options": ["TCP provides reliable, ordered, and error-checked delivery of a stream of bytes, while UDP does not guarantee delivery and does not guarantee order", "UDP provides reliable, ordered, and error-checked delivery of a stream of bytes, while TCP does not guarantee delivery and does not guarantee order", "Both TCP and UDP provide reliable, ordered, and error-checked delivery of a stream of bytes", "Neither TCP nor UDP provide reliable, ordered, and error-checked delivery of a stream of bytes"],
+    "answer": "TCP provides reliable, ordered, and error-checked delivery of a stream of bytes, while UDP does not guarantee delivery and does not guarantee order"
+  },
+  {
+    "id": 19,
+    "question": "What is the purpose of the 'async' keyword in JavaScript?",
+    "options": ["To define a function as asynchronous", "To define a function as synchronous", "To pause code execution until a condition is met", "To wait for user input"],
+    "answer": "To define a function as asynchronous"
+  },
+  {
+    "id": 20,
+    "question": "What is the purpose of a foreign key in a relational database?",
+    "options": ["To enforce data integrity", "To optimize query performance", "To define relationships between tables", "To create primary keys"],
+    "answer": "To define relationships between tables"
+  }
+]
